@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Prompt Engineer and data enthusiast, always on the lookout for creative ways to enhance user experiences and streamline processes with AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif">
 
-- 🔭 I’m currently working on **Working on optimizing return patterns and uncovering insights to improve customer satisfaction and reduce returns. Combining data analysis with a keen eye for UX and business impact to drive meaningful results.**
+- 🔭 **Working on optimizing return patterns and uncovering insights to improve customer satisfaction and reduce returns. Combining data analysis with a keen eye for UX and business impact to drive meaningful results.**
 
-- 🌱 I’m currently learning **Right now, I’m diving deeper into advanced NLP techniques and machine learning algorithms to further refine my approach to prompt engineering and neural network development. I’m also exploring ways to leverage generative AI to simplify and enhance user interactions.**
+- 🌱 **Right now, I’m diving deeper into advanced NLP techniques and machine learning algorithms to further refine my approach to prompt engineering and neural network development. I’m also exploring ways to leverage generative AI to simplify and enhance user interactions.**
 
-- 💬 Ask me about **Mern Stack, Agile frameworks, Model training**
+- 💬 Ask me about : **Mern Stack, Agile frameworks, Model training**
 
 - 📝 Check my new article on [https://miffyreadscom.wordpress.com/](https://miffyreadscom.wordpress.com/)
 
